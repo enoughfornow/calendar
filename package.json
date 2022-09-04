@@ -2,7 +2,7 @@
   "name": "calendar",
   "version": "0.1.0",
   "private": true,
-  "himepage": "https://enoughfornow.github.io/calendar/",
+  "homepage": "https://enoughfornow.github.io/calendar/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
